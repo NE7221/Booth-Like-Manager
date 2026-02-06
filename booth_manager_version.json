@@ -1,18 +1,22 @@
 {
   "free": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "url": "https://q6neshop.booth.pm/items/7849548"
+    "changelog": "【ver 1.0.1更新内容】\n・拡張機能更新時に通知が行くようになりました"
   },
   "standard": {
-    "version": "1.0.0",
-    "url": "https://q6neshop.booth.pm/items/7849548"
+    "version": "1.0.2",
+    "changelog": "【ver 1.0.1更新内容】\n・拡張機能更新時に通知が行くようになりました"
+    "changelog": ""
   },
   "full": {
-    "version": "1.0.0",
-    "url": "https://q6neshop.booth.pm/items/7849548"
+    "version": "1.0.2",
+    "changelog": "【ver 1.0.1更新内容】\n・拡張機能更新時に通知が行くようになりました"
+    "changelog": ""
   },
   "beta": {
-    "version": "1.0.3",
+    "version": "1.0.2",
     "url": "https://www.fanbox.cc/manage/posts/11212864"
+    "changelog": "【ver 1.0.1更新内容】\n・拡張機能更新時に通知が行くようになりました\n・他人のリストを取り込めるようになりました。\n・軽微なバグ修正を行いました。"
   }
 }
